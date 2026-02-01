@@ -127,22 +127,22 @@ label1	label1
 工具箱	Toolbox
 字库	Fonts
 当前系列不支持此资源!	The current series does not support this resource!
-属性	property
-值	value
-方法	method
+属性	Property
+值	Value
+方法	Method
 导入/导出页面	Import/Export Page
-文件	document
+文件	Document
 输出生产文件	Output production files
 导出控件名称宏定义	Export control name macro definition
 打开	Open
-保存	keep
+保存	Save
 另存为	Save As
 版本备份目录	Version backup directory
 虚拟eeprom文件夹	Virtual eeprom folder
 虚拟SD卡文件夹	Virtual SD card folder
 导入工程	Import Project
 关闭工程	Close Project
-退出	quit
+退出	Quit
 工具	tool
 字库制作	Font production
 动画制作(GmovMaker)	Animation Production (GmovMaker)
@@ -151,14 +151,14 @@ label1	label1
 设置	set up
 软件设置	Software Setup
 重置窗口布局	Reset window layout
-帮助	help
+帮助	Help
 检测版本更新	Detect version updates
 最新信息	Latest Information
 编译	Compile
-调试	debug
-下载	download
-撤销	Revocation
-恢复	recover
+调试	Debug
+下载	Download
+撤销	Undo
+恢复	Redo
 设备	equipment
 置顶层	Top
 左对齐	Left Align
@@ -475,4 +475,5 @@ Update	Update
 0%	0%
 progressBarX1	progressBarX1
 select update	select update
+
 当前版本不再提醒	The current version no longer reminds
